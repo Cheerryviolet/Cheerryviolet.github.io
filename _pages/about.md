@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Engineering, Games and Literature
+title: About
 permalink: /
-subtitle: 
+subtitle: Engineering, Game Developing, and Literature
 
 profile:
   align: right
